@@ -1,0 +1,11 @@
+{
+  "name": "codex-auth0-module",
+  "version": "1.0.0",
+  "description": "Auth0 module for james/codex-server",
+  "main": "auth0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Peret <james.peret@gmail.com> (http://jamesperet.com)",
+  "license": "ISC"
+}
